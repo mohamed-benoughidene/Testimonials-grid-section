@@ -31,7 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Source code: [https://github.com/romila2003/Testimonials-grid-section](https://github.com/romila2003/Testimonials-grid-section) -[Live website](https://elegant-gelato-536a23.netlify.app)
+-[Source code](https://github.com/romila2003/Testimonials-grid-section) 
+-[Live website](https://elegant-gelato-536a23.netlify.app)
 
 ### Built with
 
