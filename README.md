@@ -30,9 +30,6 @@ Users should be able to:
 ![screenshot](/images/screenshot-desktop.png)
 
 ### Links
-
--[Source code](https://github.com/romila2003/Testimonials-grid-section) 
-
 -[Live website](https://elegant-gelato-536a23.netlify.app)
 
 ### Built with
